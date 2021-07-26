@@ -16,4 +16,3 @@
 [<img align="left" alt="TechShoor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/techshoor?sub_confirmation=1)
 [<img align="left" alt="azharthegeek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fazharthegeek&screen_name=azharthegeek)
 [<img align="left" alt="azharthegeek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/azharthegeek/)
-[<img align="left" alt="azharthegeek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/azharthegeek/)
