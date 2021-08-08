@@ -28,5 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azharthegeek&show_icons=true&locale=en" alt="azharthegeek" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharthegeek&layout=compact)
+
 
 <p align="left"> <a href="https://twitter.com/azharthegeek" target="blank"><img src="https://img.shields.io/twitter/follow/azharthegeek?logo=twitter&style=for-the-badge" alt="azharthegeek" /></a> </p>
