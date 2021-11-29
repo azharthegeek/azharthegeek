@@ -27,3 +27,4 @@
 <a href="https://www.youtube.com/c/techshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techshoor" height="30" width="40" /></a>
 <a href="https://wa.me/message/GYHKKDNLZGM3A1" target="blank"><img align="center" src="https://github.com/AZHARTHEGEEK/azharthegeek/blob/main/whatsapp-logo-png-2290.png?raw=true" alt="azharthegeek" height="30" width="40" /></a>
 </p>
+![](https://activity-graph.herokuapp.com/graph?username=azharthegeek&theme=react-dark&hide_border=true&area=true)
