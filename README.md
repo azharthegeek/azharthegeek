@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?color=Green&down_color=red&down_message=Up&label=Tech%20Shoor&logo=Tech%20Shoor&up_color=green&up_message=Up&url=https%3A%2F%2Ftechshoor.com)](https://techshoor.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/azharthegeek?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fazharthegeek&screen_name=azharthegeek)
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-2.3k-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-2.5k-blue?style=social&logo=linkedin)
 
 - 🌱 I’m currently learning **AI,DS,AWS Sagemaker,Azure ML,Github Copilot waiting for NVIDIA Megatron**
 
