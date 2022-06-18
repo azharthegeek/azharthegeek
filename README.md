@@ -1,12 +1,12 @@
-
-<h3 align="center">Microsoft Technology Associate | Artificial Intelligence | Deep Learning Researcher</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Azhar</h1>
+<h3 align="center">Interested in anything related to AI</h3>
 
 [![Website](https://img.shields.io/website?color=Green&down_color=red&down_message=Up&label=Tech%20Shoor&logo=Tech%20Shoor&up_color=green&up_message=Up&url=https%3A%2F%2Ftechshoor.com)](https://techshoor.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/azharthegeek?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fazharthegeek&screen_name=azharthegeek)
 ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-2.5k-blue?style=social&logo=linkedin)
+![](https://komarev.com/ghpvc/?username=azharthegeek&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning **AI,DS,AWS Sagemaker,Azure ML,Github Copilot waiting for NVIDIA Megatron**
-
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, AI ,DL**
 
 - 📫 How to reach me **azhar@techshoor.com** or [WhatsApp](https://wa.me/message/GYHKKDNLZGM3A1) <a href="https://wa.me/message/GYHKKDNLZGM3A1" target="blank"><img align="center" src="https://github.com/AZHARTHEGEEK/azharthegeek/blob/main/whatsapp-logo-png-2290.png?raw=true" alt="azharthegeek" height="30" width="40" /></a>
