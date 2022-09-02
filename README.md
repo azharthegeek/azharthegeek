@@ -3,10 +3,10 @@
 
 [![Website](https://img.shields.io/website?color=Green&down_color=red&down_message=Up&label=Tech%20Shoor&logo=Tech%20Shoor&up_color=green&up_message=Up&url=https%3A%2F%2Ftechshoor.com)](https://techshoor.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/azharthegeek?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fazharthegeek&screen_name=azharthegeek)
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-2.5k-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-3.1k+-blue?style=social&logo=linkedin)
 ![](https://komarev.com/ghpvc/?username=azharthegeek&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning **AI,DS,AWS Sagemaker,Azure ML,Github Copilot waiting for NVIDIA Megatron**
+- 🌱 I’m currently exploring the knowledge of **Artificial Intelligence, Data Science & Blockchain**
 - 📝 I write articles on [https://techshoor.com/](https://techshoor.com/)      💬 Ask me about **Python, AI ,DL**
 
 - 📫 How to reach me **azhar@techshoor.com** or [WhatsApp](https://wa.me/message/GYHKKDNLZGM3A1) <a href="https://wa.me/message/GYHKKDNLZGM3A1" target="blank"><img align="center" src="https://github.com/AZHARTHEGEEK/azharthegeek/blob/main/whatsapp-logo-png-2290.png?raw=true" alt="azharthegeek" height="30" width="40" /></a>
@@ -18,13 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azharthegeek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Muhammad Azhar" align="center" />
 </a>
 
-<p align="left"> <a href="https://twitter.com/azharthegeek" target="blank"><img src="https://img.shields.io/twitter/follow/azharthegeek?logo=twitter&style=for-the-badge" alt="azharthegeek" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azharthegeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azharthegeek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azharthegeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azharthegeek" height="30" width="40" /></a>
-<a href="https://fb.com/azharthegeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azharthegeek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techshoor" height="30" width="40" /></a>
 <a href="https://wa.me/message/GYHKKDNLZGM3A1" target="blank"><img align="center" src="https://github.com/AZHARTHEGEEK/azharthegeek/blob/main/whatsapp-logo-png-2290.png?raw=true" alt="azharthegeek" height="30" width="40" /></a>
 </p>
