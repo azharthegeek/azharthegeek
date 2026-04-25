@@ -12,15 +12,13 @@
 
 </div>
 
----
-
-## ⚡ What I Do
+## What I Do
 
 AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI systems - RAG pipelines, LLM agents, computer vision, and intelligent APIs. Founder of **[TechShoor](https://techshoor.com)** · Published researcher in RL & Agricultural AI.
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🛠️ Core Stack
+## Core Stack
 
 <div align="center">
 
@@ -49,9 +47,9 @@ AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI s
 
 </div>
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -66,24 +64,24 @@ AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI s
 
 </div>
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌾 [**TechShoor Agri**](https://agri.techshoor.com) | Satellite imagery + DL for crop health & yield optimization | TensorFlow · FastAPI · Azure · Rasterio |
-| 🏥 [**MediScan**](https://mediscan.techshoor.com) | Fracture detection in musculoskeletal X-rays (MURA dataset) | PyTorch · TensorFlow · Docker · Azure |
-| 💬 [**Roman Urdu NLP**](https://github.com/azharthegeek/sentiment-analysis-roman-urdu) | Sentiment analysis on Urdu product reviews | NLTK · Scikit-learn · Django |
+| [**TechShoor Agri**](https://agri.techshoor.com) | Satellite imagery + DL for crop health & yield optimization | TensorFlow · FastAPI · Azure · Rasterio |
+| [**MediScan**](https://mediscan.techshoor.com) | Fracture detection in musculoskeletal X-rays (MURA dataset) | PyTorch · TensorFlow · Docker · Azure |
+| [**Roman Urdu NLP**](https://github.com/azharthegeek/sentiment-analysis-roman-urdu) | Sentiment analysis on Urdu product reviews | NLTK · Scikit-learn · Django |
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 📄 Research
+## Research
 
 - **Study on Reinforcement Learning and Deep RL Schemes: A Review** - *SSURJET*
 - **Deep Learning Models in Agricultural Satellite Imagery: A Review** - *Global Research Congress 2023, SMIU Karachi*
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 <div align="center">
 
