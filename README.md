@@ -16,7 +16,7 @@
 
 AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI systems - RAG pipelines, LLM agents, computer vision, and intelligent APIs. Founder of **[TechShoor](https://techshoor.com)** · Published researcher in RL & Agricultural AI.
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/azharthegeek)
 
 ## Core Stack
 
@@ -47,7 +47,7 @@ AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI s
 
 </div>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/azharthegeek)
 
 ## GitHub Stats
 
@@ -64,7 +64,7 @@ AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI s
 
 </div>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/azharthegeek)
 
 ## Featured Projects
 
@@ -74,14 +74,14 @@ AI Engineer at **[Al Nafi](https://alnafi.com)** deploying production-grade AI s
 | [**MediScan**](https://mediscan.techshoor.com) | Fracture detection in musculoskeletal X-rays (MURA dataset) | PyTorch · TensorFlow · Docker · Azure |
 | [**Roman Urdu NLP**](https://github.com/azharthegeek/sentiment-analysis-roman-urdu) | Sentiment analysis on Urdu product reviews | NLTK · Scikit-learn · Django |
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/azharthegeek)
 
 ## Research
 
 - **Study on Reinforcement Learning and Deep RL Schemes: A Review** - *SSURJET*
 - **Deep Learning Models in Agricultural Satellite Imagery: A Review** - *Global Research Congress 2023, SMIU Karachi*
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/azharthegeek)
 
 <div align="center">
 
